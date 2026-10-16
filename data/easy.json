@@ -1,11 +1,7 @@
 {
   "name": "Easy",
-
-  "game": {
-    "duration": 30000,
-    "spawnrate" : 3000 
-  },
-
+  "duration": 30000,
+  "spawnrate" : 3000, 
   "duck": {
     "settings":{
       "width": 50,
@@ -13,6 +9,5 @@
       "speed": 40,
       "animationspeed": 300
     }
-    
   }
 }
