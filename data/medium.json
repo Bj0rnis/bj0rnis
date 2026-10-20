@@ -6,8 +6,8 @@
     "settings":{
       "width": 50,
       "height": 50,
-      "speed": 50,
-      "animationspeed": 350
+      "speed": 30,
+      "animationspeed": 280
     }
   }
 }
