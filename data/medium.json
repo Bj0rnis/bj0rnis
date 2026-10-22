@@ -1,7 +1,7 @@
 {
   "name": "Medium",
   "duration": 30000,
-  "spawnrate" : 1400, 
+  "spawnrate" : 800, 
   "duck": {
     "settings":{
       "width": 50,
