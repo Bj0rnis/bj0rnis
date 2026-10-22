@@ -1,7 +1,7 @@
 {
   "name": "Easy",
   "duration": 30000,
-  "spawnrate" : 1000, 
+  "spawnrate" : 800, 
   "duck": {
     "settings":{
       "width": 50,

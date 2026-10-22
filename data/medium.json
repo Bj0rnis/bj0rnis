@@ -1,12 +1,12 @@
 {
   "name": "Medium",
   "duration": 30000,
-  "spawnrate" : 800, 
+  "spawnrate" : 500, 
   "duck": {
     "settings":{
       "width": 50,
       "height": 50,
-      "speed": 25,
+      "speed": 20,
       "animationspeed": 280
     }
   }
