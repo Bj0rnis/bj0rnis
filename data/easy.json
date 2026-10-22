@@ -1,12 +1,12 @@
 {
   "name": "Easy",
   "duration": 30000,
-  "spawnrate" : 2500, 
+  "spawnrate" : 2000, 
   "duck": {
     "settings":{
       "width": 50,
       "height": 50,
-      "speed": 40,
+      "speed": 30,
       "animationspeed": 300
     }
   }
